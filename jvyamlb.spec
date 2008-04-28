@@ -2,7 +2,7 @@ Name:           jvyamlb
 Version:        0.1
 Release:        %mkrel 0.2.1
 Summary:        YAML processor for JRuby
-Group:          Development/Libraries
+Group:          Development/Java
 License:        MIT
 URL:            http://code.google.com/p/jvyamlb/
 Source0:        http://jvyamlb.googlecode.com/files/%{name}-src-%{version}.tar.gz
