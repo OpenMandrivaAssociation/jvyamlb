@@ -4,7 +4,7 @@ Release:        2
 Summary:        YAML processor for JRuby
 Group:          Development/Java
 License:        MIT
-URL:            http://code.google.com/p/jvyamlb/
+URL:            https://code.google.com/p/jvyamlb/
 Source0:        http://jvyamlb.googlecode.com/files/%{name}-src-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch:      noarch
